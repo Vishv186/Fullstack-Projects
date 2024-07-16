@@ -1,7 +1,9 @@
 Personal Portfolio Preview
 
-<img width="1454" alt="Screenshot 2024-07-16 at 9 53 07 PM" src="https://github.com/user-attachments/assets/d1c8c8e9-ac0b-404c-90b1-a24676d73bc0"><img width="1465" alt="Screenshot 2024-07-16 at 9 50 34 PM" src="https://github.com/user-attachments/assets/59191956-2235-44c0-8e1e-4838ad44de50">
-<img width="1463" alt="Screenshot 2024-07-16 at 9 50 49 PM" src="https://github.com/user-attachments/assets/7effe1b4-b3c2-4645-b229-17d1769c1320">
-<img width="1467" alt="Screenshot 2024-07-16 at 9 52 36 PM" src="https://github.com/user-attachments/assets/4c2afe79-9e5f-47c9-ac52-8f66998b5404">
-<img width="1467" alt="Screenshot 2024-07-16 at 9 52 48 PM" src="https://github.com/user-attachments/assets/2e010d29-9a0f-49a0-9658-2c1ea96c76ca">
 
+
+<img width="1465" alt="Screenshot 2024-07-16 at 9 50 34 PM" src="https://github.com/user-attachments/assets/71d497cb-a213-416a-b484-016929d474f1">
+<img width="1463" alt="Screenshot 2024-07-16 at 9 50 49 PM" src="https://github.com/user-attachments/assets/7f39ec99-bee3-4df4-a50e-5c95dd38cbdb">
+<img width="1467" alt="Screenshot 2024-07-16 at 9 52 36 PM" src="https://github.com/user-attachments/assets/6b4c70a5-1d76-47ec-9a79-402ea91ab3c1">
+<img width="1467" alt="Screenshot 2024-07-16 at 9 52 48 PM" src="https://github.com/user-attachments/assets/8c30a28e-ca1b-4223-8e89-aed64419f608">
+<img width="1454" alt="Screenshot 2024-07-16 at 9 53 07 PM" src="https://github.com/user-attachments/assets/ed1a9f0a-9dd6-4260-8a94-c8aeb73cc8e5">
