@@ -8,6 +8,11 @@ Personal Portfolio Preview
 <img width="1467" alt="Screenshot 2024-07-16 at 9 52 48 PM" src="https://github.com/user-attachments/assets/8c30a28e-ca1b-4223-8e89-aed64419f608">
 <img width="1454" alt="Screenshot 2024-07-16 at 9 53 07 PM" src="https://github.com/user-attachments/assets/ed1a9f0a-9dd6-4260-8a94-c8aeb73cc8e5">
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 Weather Report Preview
