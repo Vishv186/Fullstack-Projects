@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+
+  flex-direction: column;
+  height: 100vh;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  /* background-image: url('https://cdn.pixabay.com/photo/2022/12/07/16/07/palm-7641522_1280.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+@keyframes spinner-grow {
+  0% {
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
