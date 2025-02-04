@@ -1,0 +1,368 @@
+body {
+  background-color: rgb(173, 144, 227);
+  margin-top: 150px;
+  margin-left: 150px;
+  margin-bottom: 135px;
+  margin-right: 150px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  font-family: "DM Sans", sans-serif;
+  color: #6f3cff;
+  font-size: 44px;
+  line-height: 27.34px;
+  font-style: bold;
+  line-height: 100%;
+  position: absolute;
+  top: 40px;
+  width: 200px;
+  height: 200px;
+}
+
+.box {
+  background-color: rgb(255, 255, 255);
+  border-radius: 30px;
+  width: 818px;
+  height: 428px;
+  box-shadow: blueviolet;
+}
+
+.billContainer {
+  display: flex;
+  flex-direction: row;
+  align-content: stretch;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.boxLeft {
+  font-family: "Inconsolata", monospace;
+  color: #9c60ff;
+  width: 409px;
+  height: 378px;
+  background-color: #ffffff;
+  margin-top: 28px;
+  margin-bottom: 28px;
+  margin-left: 26px;
+  margin-right: 26px;
+}
+
+/* BILL SECTION */
+
+label {
+  position: absolute;
+  height: 12px;
+  top: 156px;
+  align-content: left;
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: 0.045em;
+  color: #ffffff;
+}
+
+.billHeader {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.amount1 {
+  top: 10px;
+  margin-top: 0px;
+  margin-left: 25px;
+}
+
+#inputBox {
+  font-size: 1rem;
+  color: #6f3cff;
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.symbol {
+  height: 20px;
+  width: 28px;
+  text-align: center;
+  font-size: large;
+  color: #9c60ff;
+  background-color: #e1dcdc;
+  padding: 11px;
+  border-radius: 4px 0px 0px 4px;
+}
+
+.actualInputBox {
+  color: #9c60ff;
+  width: 306px;
+  margin-left: 0;
+  border: 0;
+}
+
+.actualInputBox::placeholder {
+  color: #9c60ff;
+  margin-right: 10px;
+}
+
+#text {
+  height: 40px;
+  border-style: solid;
+  border-radius: 0px 4px 4px 0px;
+  border-color: beige;
+  background-color: #e1dcdc;
+  font-size: large;
+  text-align: end;
+  /* position: absolute; */
+  right: 0px;
+}
+
+h5 {
+  color: #9c60ff;
+}
+
+/* SELECT TIP SECTION */
+
+.tip {
+  font-style: bold;
+  font-size: 15px;
+  line-height: 16px;
+  line-height: 100%;
+  align-items: left;
+  vertical-align: top;
+  letter-spacing: 4.5%;
+  fill: solid #9c60ff;
+}
+
+.selectTipHeader {
+  text-align: left;
+  margin-left: 26px;
+  margin-bottom: 0px;
+}
+
+.tipOptions {
+  display: flex;
+  flex-direction: column;
+}
+
+.tipsRow {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.tipBox {
+  margin: 10px;
+  font-family: "monospace";
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #e9dbff;
+}
+
+.tip-button {
+  background-color: #9c60ff;
+  color: #e9dbff;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  height: 44px;
+  width: 106px;
+  left: 273px;
+  top: 429px;
+  border-radius: 4px;
+  transition: transform 250ms, opacity 400ms;
+}
+
+.tip-button:hover {
+  background-color: #6f3cff;
+  transform: scale(1.2);
+}
+
+/* NUMBER OF PEOPLE SECTION */
+
+.numberOfPeople {
+  height: 100px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.noOfPeopleHeader {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.peopleSelect {
+  height: 40px;
+  width: 360px;
+  border-style: solid black;
+  background-color: #e1dcdc;
+  border-radius: 4px 0px 0px 4px;
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  height: 18px;
+  width: 18px;
+}
+
+.img1 {
+  height: 18px;
+  width: 18px;
+  left: 10px;
+  margin-top: 10px;
+  margin-right: 227px;
+  margin-left: 16px;
+}
+
+#increment {
+  width: 35px;
+  left: 195px;
+  height: 40px;
+  font-size: large;
+}
+
+#decrement {
+  width: 35px;
+  height: 40px;
+  left: 286px;
+  font-size: large;
+}
+
+#num {
+  height: 45px;
+  width: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 238px;
+  text-align: center;
+  font-size: 25px;
+  color: #9c60ff;
+}
+
+.counterButtons {
+  display: flex;
+}
+
+/* RIGHT SECTION */
+
+.boxRight {
+  font-family: "Inconsolata", monospace;
+  color: #f3e4ff;
+  width: 409px;
+  height: 378px;
+  background-color: #9c60ff;
+  border-radius: 30px;
+  margin-top: 28px;
+  margin-bottom: 28px;
+  margin-right: 26px;
+}
+
+.amountRow {
+  height: 100px;
+  width: 320px;
+  margin-left: 15px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 20px;
+  color: aliceblue;
+  flex-wrap: wrap;
+  align-items: stretch;
+  align-content: space-between;
+}
+
+.amountRow2 {
+  height: 100px;
+  width: 320px;
+  margin-left: 15px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 20px;
+  color: aliceblue;
+  flex-wrap: wrap;
+  align-items: stretch;
+  align-content: space-between;
+}
+
+/* TIP AMOUNT AND TOTAL SECTION */
+.amount2 {
+  height: 65px;
+  width: 200px;
+  font-size: medium;
+  display: flex;
+  justify-content: right;
+  right: 0px;
+  background-color: #9c60ff;
+  text-align: center;
+  font-size: 40px;
+  color: darkgray;
+}
+
+#totalAmount {
+  margin-right: 20px;
+}
+
+#tipAmount {
+  margin-right: 20px;
+}
+
+.subtext {
+  width: 59px;
+  height: 10px;
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 14px;
+  letter-spacing: 0.045em;
+  text-align: end;
+  color: #c39fff;
+  margin-top: 10px;
+}
+
+/* GENERATE RESET BUTTON */
+
+.generateBill {
+  width: 300px;
+  height: 50px;
+  position: relative;
+  margin-top: 20px;
+  margin-left: 15px;
+  font-size: large;
+  background-color: #c39fff;
+  color: #9c60ff;
+  border-radius: 3%;
+}
+
+.button {
+  background-color: #c39fff;
+  color: #9c60ff;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  height: 38px;
+  width: 270px;
+  left: 273px;
+  top: 429px;
+  border-radius: 4px;
+  transition: transform 250ms, opacity 400ms;
+  margin-top: 66px;
+}
+
+.button:hover {
+  background-color: #6f3cff;
+  color: #c39fff;
+  transform: scale(1.2);
+}
