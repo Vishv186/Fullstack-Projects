@@ -39,11 +39,12 @@ Weather Report Preview
 <br/>
 
 Mern Skeleton
-<img width="1470" alt="Screenshot 2025-05-02 at 2 46 19 PM" src="https://github.com/user-attachments/assets/76ea15ad-2262-4af0-97c3-6a48346e6fd2" />
-<img width="1470" alt="Screenshot 2025-05-02 at 2 45 57 PM" src="https://github.com/user-attachments/assets/c5117881-3108-42ab-a8a3-2f222242e765" />
-<img width="1470" alt="Screenshot 2025-05-02 at 2 45 17 PM" src="https://github.com/user-attachments/assets/46fccc8a-4870-4059-96e8-90a86b0145fc" />
-<img width="1470" alt="Screenshot 2025-05-02 at 2 45 10 PM" src="https://github.com/user-attachments/assets/cd1cbb56-1440-447f-a8d1-1e7d93062103" />
+
 <img width="1470" alt="Screenshot 2025-05-02 at 2 44 56 PM" src="https://github.com/user-attachments/assets/e769d401-cc7c-45bc-a774-fa68792e7584" />
+<img width="1470" alt="Screenshot 2025-05-02 at 2 45 10 PM" src="https://github.com/user-attachments/assets/cd1cbb56-1440-447f-a8d1-1e7d93062103" />
+<img width="1470" alt="Screenshot 2025-05-02 at 2 45 17 PM" src="https://github.com/user-attachments/assets/46fccc8a-4870-4059-96e8-90a86b0145fc" />
+<img width="1470" alt="Screenshot 2025-05-02 at 2 45 57 PM" src="https://github.com/user-attachments/assets/c5117881-3108-42ab-a8a3-2f222242e765" />
+<img width="1470" alt="Screenshot 2025-05-02 at 2 46 19 PM" src="https://github.com/user-attachments/assets/76ea15ad-2262-4af0-97c3-6a48346e6fd2" />
 
 <br/>
 <br/>
